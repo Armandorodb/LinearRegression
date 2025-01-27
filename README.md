@@ -16,6 +16,6 @@ https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
 Dichos datos fueron modificados para poder trabajar con ellos de mejor manera, para poder ejecutar el código y verificar su funcionamiento
 usa el descargable.
 
--[Ver la regresión lineal](proyectos/proyecto2/Ejercicio_LinearRegression.html) <p>
+-[Ver la regresión lineal](Ejercicio_LinearRegression.html) <p>
 -[Descargar archivo CSV (La base de datos)](data1_2.csv) <p>
 -[Descargar archivo Jupyter Notebook (.ipynb)](Ejercicio_LinearRegression.ipynb) <p>
